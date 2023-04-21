@@ -22,5 +22,10 @@ wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_
 
 
 ```
+<<<<<<< HEAD
 this changes is made in neuron lab 
 ```
+=======
+this file is edited by me 
+```
+>>>>>>> c25589bd86c2e611b46ab59ca411f323c75044ff
